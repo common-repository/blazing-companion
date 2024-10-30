@@ -1,0 +1,224 @@
+# Copyright (C) 2018 ApolloThemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blazing Companion 1.0\n"
+"Report-Msgid-Bugs-To: https://www.apollothemes.com \n"
+"POT-Creation-Date: 2018-03-21 09:11+0530\n"
+"PO-Revision-Date: 2018-03-21 09:11+0530\n"
+"Last-Translator: apollothemes.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blazing-companion.php:53
+msgid "Homepage Options"
+msgstr ""
+
+#: blazing-companion.php:60
+msgid "Home Section Manager"
+msgstr ""
+
+#: blazing-companion.php:67 blazing-companion.php:140
+msgid "Slider"
+msgstr ""
+
+#: blazing-companion.php:77 blazing-companion.php:134
+msgid "About"
+msgstr ""
+
+#: blazing-companion.php:85 blazing-companion.php:135
+msgid "Blog"
+msgstr ""
+
+#: blazing-companion.php:92 blazing-companion.php:139
+#: blazing-companion.php:241
+msgid "Services"
+msgstr ""
+
+#: blazing-companion.php:99 blazing-companion.php:141
+#: blazing-companion.php:346 blazing-companion.php:388
+msgid "Testimonials"
+msgstr ""
+
+#: blazing-companion.php:106 blazing-companion.php:136
+#: blazing-companion.php:418 blazing-companion.php:464
+msgid "Brands"
+msgstr ""
+
+#: blazing-companion.php:113 blazing-companion.php:510
+msgid "Social Links"
+msgstr ""
+
+#: blazing-companion.php:130
+msgid "Home Page Layout"
+msgstr ""
+
+#: blazing-companion.php:137
+msgid "Hero Image"
+msgstr ""
+
+#: blazing-companion.php:138
+msgid "Latest Products"
+msgstr ""
+
+#: blazing-companion.php:153 blazing-companion.php:162
+#: blazing-companion.php:171 blazing-companion.php:180
+msgid "Summer Shoping sale"
+msgstr ""
+
+#: blazing-companion.php:154 blazing-companion.php:163
+#: blazing-companion.php:172 blazing-companion.php:181
+msgid "DESCOUNT UP TO 50% AVAILABLE"
+msgstr ""
+
+#: blazing-companion.php:156 blazing-companion.php:165
+#: blazing-companion.php:174 blazing-companion.php:183
+msgid "View Details"
+msgstr ""
+
+#: blazing-companion.php:158 blazing-companion.php:167
+#: blazing-companion.php:176 blazing-companion.php:185
+#: blazing-companion.php:225
+msgid "Buy Now"
+msgstr ""
+
+#: blazing-companion.php:192 blazing-companion.php:195
+msgid "Slide"
+msgstr ""
+
+#: blazing-companion.php:199 blazing-companion.php:291
+#: blazing-companion.php:395
+msgid "Title"
+msgstr ""
+
+#: blazing-companion.php:204 blazing-companion.php:258
+#: blazing-companion.php:296 blazing-companion.php:328
+#: blazing-companion.php:363 blazing-companion.php:401
+#: blazing-companion.php:435
+msgid "Description"
+msgstr ""
+
+#: blazing-companion.php:209 blazing-companion.php:337
+#: blazing-companion.php:407 blazing-companion.php:471
+msgid "Image"
+msgstr ""
+
+#: blazing-companion.php:214 blazing-companion.php:224
+msgid "Button Text"
+msgstr ""
+
+#: blazing-companion.php:215
+msgid "Read More"
+msgstr ""
+
+#: blazing-companion.php:219 blazing-companion.php:229
+msgid "Button URL"
+msgstr ""
+
+#: blazing-companion.php:247 blazing-companion.php:317
+#: blazing-companion.php:352 blazing-companion.php:424
+msgid "Heading"
+msgstr ""
+
+#: blazing-companion.php:252
+msgid "Services Description"
+msgstr ""
+
+#: blazing-companion.php:266 blazing-companion.php:271
+#: blazing-companion.php:276
+msgid "Awesome Service"
+msgstr ""
+
+#: blazing-companion.php:267 blazing-companion.php:272
+#: blazing-companion.php:277
+msgid "Awesome Service Description"
+msgstr ""
+
+#: blazing-companion.php:284
+msgid "Servces"
+msgstr ""
+
+#: blazing-companion.php:287
+msgid "Service"
+msgstr ""
+
+#: blazing-companion.php:301 blazing-companion.php:517
+msgid "Icon"
+msgstr ""
+
+#: blazing-companion.php:311
+msgid "About Us"
+msgstr ""
+
+#: blazing-companion.php:322
+msgid "About Us Description"
+msgstr ""
+
+#: blazing-companion.php:357
+msgid "Testimonials Description"
+msgstr ""
+
+#: blazing-companion.php:371 blazing-companion.php:378
+msgid "Testimonial Heading"
+msgstr ""
+
+#: blazing-companion.php:372 blazing-companion.php:379
+msgid "Testimonial Description"
+msgstr ""
+
+#: blazing-companion.php:374 blazing-companion.php:381
+msgid "example.com"
+msgstr ""
+
+#: blazing-companion.php:391
+msgid "Testimonial"
+msgstr ""
+
+#: blazing-companion.php:429
+msgid "Brands Description"
+msgstr ""
+
+#: blazing-companion.php:467
+msgid "Brand"
+msgstr ""
+
+#: blazing-companion.php:475
+msgid "Brand URL"
+msgstr ""
+
+#: blazing-companion.php:513
+msgid "Social Site"
+msgstr ""
+
+#: blazing-companion.php:522
+msgid "Social Link"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:80
+#: fields/repeater/class/class-apollothemes-field-repeater.php:111
+msgid "Remove Field"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:117
+msgid "Add New"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:148
+msgid "Select Image"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:173
+msgid "Select Page"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:207
+#: fields/repeater/class/class-apollothemes-field-repeater.php:229
+msgid "Remove Icon"
+msgstr ""
+
+#: fields/repeater/class/class-apollothemes-field-repeater.php:232
+msgid "Add Icon"
+msgstr ""
